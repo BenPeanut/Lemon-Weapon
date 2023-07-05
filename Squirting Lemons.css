@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(236, 221, 107);
+}
+.centered-text {
+    text-align: center;
+}
+.text-box {
+    width: 550px;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 45px;
+}
+p {
+    font-size: 15;
+}
+.positioned-image {
+    position: relative;
+    top: -150px;
+    left: 20px;
+    width: 450px;
+    height: auto;
+}
